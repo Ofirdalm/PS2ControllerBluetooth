@@ -23,7 +23,7 @@ class MyServerCallbacks: public BLEServerCallbacks
     deviceConnected = false;
   }
 };
-//test
+
 void CreateConnection()
 {
   // Create the BLE Device
